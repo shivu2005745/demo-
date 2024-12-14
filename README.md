@@ -1,2 +1,2 @@
 # demo-
-This is my first it reprository
+This is my first git reprository
